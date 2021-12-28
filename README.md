@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj={luke512})">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=luke512">
 
